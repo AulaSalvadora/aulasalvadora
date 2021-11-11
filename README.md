@@ -3,7 +3,7 @@
 
 - 🔭 Engenheiro químico
 Atualmente estudando:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 - 📫 Como entrar em contato comigo: gabrielsa2@outlook.com
 - ⚡ Fun fact: Tenho um canal no Youtube chamado Aula Salvadora. Lá, produzo conteúdo sobre ciências exatas para aprendizagem dos jovens brasileiros.
 <!--
