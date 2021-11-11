@@ -1,5 +1,11 @@
-### Hi there 👋
+### Olá, tudo bem? 👋
+### Meu nome é Gabriel Salvador e seja bem-vindo ao meu perfil.
 
+- 🔭 Engenheiro químico
+Atualmente estudando:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+- 📫 Como entrar em contato comigo: gabrielsa2@outlook.com
+- ⚡ Fun fact: Tenho um canal no Youtube chamado Aula Salvadora. Lá, produzo conteúdo sobre ciências exatas para aprendizagem dos jovens brasileiros.
 <!--
 **AulaSalvadora/aulasalvadora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
