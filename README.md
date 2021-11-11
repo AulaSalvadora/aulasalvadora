@@ -10,7 +10,7 @@ Meu nome é Gabriel Salvador e seja bem-vindo ao meu perfil.
 <a href="https://www.youtube.com/aulasalvadora" target="_blank"><img src="https://img.shields.io/badge/AulaSalvadora-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/aulasalvadora" target="_blank"><img src="https://img.shields.io/badge/-aulasalvadora-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/jogosalvador" target="_blank"><img src="https://img.shields.io/badge/jogosalvador-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:gabrielsa2@outlook.com"><img src="https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+<a href = "mailto:gabrielsa2@outlook.com"><img src="https://img.shields.io/badge/gabrielsa2@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabrielsalvador" target="_blank"><img src="https://img.shields.io/badge/-gabrielsalvador-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 - ⚡ Fun fact: Tenho um canal no Youtube chamado Aula Salvadora. Lá, produzo conteúdo sobre ciências exatas para aprendizagem dos jovens brasileiros.
