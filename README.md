@@ -1,5 +1,5 @@
 ### Olá, tudo bem? 👋
-### Meu nome é Gabriel Salvador e seja bem-vindo ao meu perfil.
+Meu nome é Gabriel Salvador e seja bem-vindo ao meu perfil.
 
 
 ### Atualmente estudando
